@@ -1,4 +1,4 @@
-# JanataHack - E-Commerce Analytics ML Hackathon
+# E-Commerce Analytics ML Hackathon
 ### [Hackathon Link](https://datahack.analyticsvidhya.com/contest/janatahack-e-commerce-analytics-ml-hackathon/#About)
 ![alt text](https://github.com/chandrakant-sonawane/Hackathons/blob/master/JanataHack%20-%20E-Commerce%20Analytics%20ML%20Hackathon/image.png)
 
