@@ -3,7 +3,7 @@
 ![alt text](https://github.com/chandrakant-sonawane/Hackathons/blob/master/JanataHack%20-%20E-Commerce%20Analytics%20ML%20Hackathon/image.png)
 
 
-## Hackathon Rank: 3rd
+## Hackathon Rank: 3rd out of 2697
 
 ## Problem Statement
 
