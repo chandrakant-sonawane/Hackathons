@@ -1,6 +1,6 @@
 # JanataHack - NLP Hackathon
 ### [Hackathon Link](https://datahack.analyticsvidhya.com/contest/janatahack-nlp-hackathon/#About)
-![alt text](https://github.com/chandrakant-sonawane/Hackathons/blob/master/JanataHack%20-%20E-Commerce%20Analytics%20ML%20Hackathon/image.png)
+![alt text](https://github.com/chandrakant-sonawane/Hackathons/blob/master/JanataHack%20-%20NLP%20Hackathon/image.png)
 
 ## Hackathon Rank: 104th rank out of 2697 participants
 
