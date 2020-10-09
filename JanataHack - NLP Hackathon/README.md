@@ -1,7 +1,8 @@
 # JanataHack - NLP Hackathon
 ### [Hackathon Link](https://datahack.analyticsvidhya.com/contest/janatahack-nlp-hackathon/#About)
+![alt text](https://github.com/chandrakant-sonawane/Hackathons/blob/master/JanataHack%20-%20E-Commerce%20Analytics%20ML%20Hackathon/image.png)
 
-## Hackathon Rank: Ongoing
+## Hackathon Rank: 104th rank out of 2697 participants
 
 ## Problem Statement
 ### Sentiment Analysis for Steam Reviews
@@ -13,4 +14,36 @@ Game overview information for both train and test are available in single file g
 
 ### About Data Source:
 Steam Platform
+
+### Data Dictionary:
+
+1. train.csv
+
+| Column Name | Description |
+| --------------- | --------------- |
+| review_id | Unique ID for each review |
+| title | Title of the game |
+| year | Year in which the review was posted |
+| user_review | Full Text of the review posted by a user |
+| user_suggestion | (Target) Game marked Recommended(1) and Not Recommended(0) by the user |
+
+
+2. game_overview.csv
+
+| Column Name | Description |
+| --------------- | --------------- |
+| developer | Name of the developer of the game |
+| publisher | Name of the publisher of the game |
+| tags | Popular user defined tags for the game |
+| overview | Overview of the game provided by the publisher |
+
+
+3. test.csv
+
+| Column Name | Description |
+| --------------- | --------------- |
+| review_id | Unique ID for each review |
+| title | Title of the game |
+| year | Year in which the review was posted |
+| user_review | Full Text of the review posted by a user |
 
