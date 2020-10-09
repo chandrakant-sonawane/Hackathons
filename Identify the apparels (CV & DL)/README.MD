@@ -1,6 +1,6 @@
 # Identify the apparels (Fashion MNIST) Hackathon
 ### [Hackathon Link](https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-apparels/#About)
-![alt text](https://github.com/chandrakant-sonawane/Hackathons/blob/master/JanataHack%20-%20E-Commerce%20Analytics%20ML%20Hackathon/image.png)
+![alt text](https://github.com/chandrakant-sonawane/Hackathons/blob/master/Identify%20the%20apparels%20(CV%20%26%20DL)/title.png)
 
 
 ## Hackathon Rank: 39th out of 5389
