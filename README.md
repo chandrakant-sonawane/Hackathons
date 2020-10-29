@@ -7,3 +7,5 @@
 ### 2) JanataHack - NLP Hackathon: 104th rank out of 2697 participants
 
 ### 3) Identify the apparels (CV & DL): 39th rank out of 5390 participants
+
+### 4) Identify the Digits (MNIST) (CV & DL): 2nd rank out of 10393 participants
