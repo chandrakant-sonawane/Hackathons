@@ -1,5 +1,5 @@
 # Identify the apparels (Fashion MNIST) Hackathon
-### [Hackathon Link](https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-apparels/#About)
+### [Hackathon Link (Dataset can be downloaded from here.)](https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-apparels/#About) 
 ![alt text](https://github.com/chandrakant-sonawane/Hackathons/blob/master/Identify%20the%20apparels%20(CV%20%26%20DL)/title.png)
 
 
